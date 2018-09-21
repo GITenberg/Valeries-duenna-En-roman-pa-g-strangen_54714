@@ -1,11 +1,16 @@
 _repo: Valeries-duenna-En-roman-pa-g-strangen_54714
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blundell, Mary Elizabeth
     gutenberg_agent_id: '48009'
     url: http://www.gutenberg.org/2009/agents/48009
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54714#Valeries-duenna-En-roman-pa-g-strangen
 gutenberg_issued: '2017-05-13'
 gutenberg_type: Text
 identifiers:
